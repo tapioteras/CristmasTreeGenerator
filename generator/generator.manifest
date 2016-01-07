@@ -1,0 +1,10 @@
+name: CristmashTreeGenerator
+description: Cristhmash ASCII tree generator
+authors:
+  - tapioteras
+resources:
+  
+normalize_css: no
+wrap: b
+panel_js: 1
+panel_css: 1
