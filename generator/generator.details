@@ -1,0 +1,10 @@
+---
+ name: Cristmas tree generator
+ description: Cristmas three generator
+ authors:
+   - tapioteras
+ resources:
+   - https://rawgit.com/tapioteras/CristmashTreeGenerator/master/generator/generator.js
+   - https://rawgit.com/tapioteras/CristmashTreeGenerator/master/generator/generator.css
+ normalize_css: no
+ ...
